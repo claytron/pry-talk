@@ -7,13 +7,14 @@ autoscale: true
 
 -------------------------------------------------------------------------------
 
-> Pry is a __powerful__ alternative to the standard IRB shell for Ruby.
-> It features syntax highlighting,
-> a flexible __plugin architecture__,
-> runtime invocation and source and documentation __browsing__
+![inline fit][pry_logo]
+
+> *Pry* is a __powerful__ alternative to the standard *IRB* shell for Ruby.
+> It features syntax highlighting, a flexible __plugin__ architecture,
+> runtime invocation and __source__ and documentation __browsing__
 -- [pryrepl.org][pry]
 
-^ Powerful
+^ Powerful REPL
 Pluggable
 Code Browser
 
