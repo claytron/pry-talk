@@ -201,6 +201,53 @@ Pry.config.prompt_name = 'oh no!'
 
 -------------------------------------------------------------------------------
 
+# pry-awesome_print
+
+Automatically `ap` return value
+
+Use semi-colon to silence return value
+
+```
+[1] pry(main)> x = {foo: :bar, baz: :bang}
+=> {:foo=>:bar, :baz=>:bang}
+[2] pry(main)> x = {foo: :bar, baz: :bang};
+[3] pry(main)>
+```
+
+-------------------------------------------------------------------------------
+
+# pry-byebug
+
+Make Pry act like an actual debugger
+
+Adds `next`, `step`, `continue`, etc.
+
+-------------------------------------------------------------------------------
+
+# pry-stack_explorer
+
+Show the call stack
+
+Go up and down the call stack
+
+-------------------------------------------------------------------------------
+
+# pry-clipboard
+
+Quickly copy history or output to the clipboard
+
+Works cross platform via the `clipboard` gem
+
+-------------------------------------------------------------------------------
+
+# pry-rails
+
+Automatically use Pry instead of IRB for `rails console`
+
+Commands to inspect models and routes
+
+-------------------------------------------------------------------------------
+
 # Links
 
 - [Pry][pry]
