@@ -1,8 +1,9 @@
 autoscale: true
 
-# [fit] __PRY__!
+# [fit] Exploring Code
+# [fit] with __Pry__!
 
-# [fit] [indy.rb][indyrb] 02.2015
+[@indy.rb][indyrb] 02.2015
 
 -------------------------------------------------------------------------------
 
