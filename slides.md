@@ -48,7 +48,7 @@ Run pry and see the output / return
 
 -------------------------------------------------------------------------------
 
-And now for my first trick...
+# And now for my first trick...
 
 ![][trick_image]
 
@@ -79,7 +79,7 @@ use the method.
 
 # Halp!
 
-![][halp_image]
+![original 1300%][halp_image]
 
 -------------------------------------------------------------------------------
 
@@ -133,7 +133,7 @@ wtf?!???!?!?
 
 # Photo Credits
 
-- And now for my first trick ([@vtornick][trick_credit])
+- And now for my first trick... ([@vtornick][trick_credit])
 - Halp! ([@daveblog][halp_credit])
 - Plugins ([@antpaniagua][plugins_credit])
 
@@ -144,6 +144,9 @@ wtf?!???!?!?
 [tinderbox]: images/TinderboxLogo.png
 [pry]: http://pryrepl.org/
 [pry_logo]: images/pry.png
+
+[//]: # ( CC Images                                                           )
+[//]: # ( ------------------------------------------------------------------- )
 [trick_image]: images/trick.jpg
 [trick_credit]: https://flic.kr/p/6psgfH
 [halp_image]: images/halp.jpg
