@@ -7,6 +7,18 @@ autoscale: true
 
 -------------------------------------------------------------------------------
 
+# [fit] __Who__ am I?
+
+![][claytron]
+
+claytron on the internets
+
+Senior Software Engineer at TinderBox ![fit][tinderbox]
+
+Debugger afficianado
+
+-------------------------------------------------------------------------------
+
 ![inline fit][pry_logo]
 
 > *Pry* is a __powerful__ alternative to the standard *IRB* shell for Ruby.
@@ -21,5 +33,7 @@ Code Browser
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
 [indyrb]: https://twitter.com/indyrb
+[claytron]: images/claytron.jpg
+[tinderbox]: images/TinderboxLogo.png
 [pry]: http://pryrepl.org/
 [//]: # ( ------------------------------------------------------------------- )
