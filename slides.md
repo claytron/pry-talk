@@ -50,6 +50,8 @@ Run pry and see the output / return
 
 And now for my first trick...
 
+![][trick_image]
+
 -------------------------------------------------------------------------------
 
 ![inline autoplay fit](movies/string_inspect.mov)
@@ -72,6 +74,12 @@ add a `self.hello` method.
 `cd` back to main.
 `ls -G` to find the method.
 use the method.
+
+-------------------------------------------------------------------------------
+
+# Halp!
+
+![][halp_image]
 
 -------------------------------------------------------------------------------
 
@@ -114,6 +122,21 @@ exclamation marks.
 wtf?
 wtf?!???!?!?
 ```
+
+-------------------------------------------------------------------------------
+
+# Plugins
+
+![240%][plugins_image]
+
+-------------------------------------------------------------------------------
+
+# Photo Credits
+
+- And now for my first trick ([@vtornick][trick_credit])
+- Halp! ([@daveblog][halp_credit])
+- Plugins ([@antpaniagua][plugins_credit])
+
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
 [indyrb]: https://twitter.com/indyrb
@@ -121,4 +144,10 @@ wtf?!???!?!?
 [tinderbox]: images/TinderboxLogo.png
 [pry]: http://pryrepl.org/
 [pry_logo]: images/pry.png
+[trick_image]: images/trick.jpg
+[trick_credit]: https://flic.kr/p/6psgfH
+[halp_image]: images/halp.jpg
+[halp_credit]: https://flic.kr/p/7sVMkt
+[plugins_image]: images/plugins.jpg
+[plugins_credit]: https://flic.kr/p/dmFGqt
 [//]: # ( ------------------------------------------------------------------- )
