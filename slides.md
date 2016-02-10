@@ -91,6 +91,29 @@ use the method.
 
 -------------------------------------------------------------------------------
 
+![inline autoplay fit](movies/pry_source.mov)
+
+^ Show tab completion for `O<tab>`.
+`ls OpenStruct`.
+`show-doc OpenStruct`.
+`show-source OpenStruct`.
+`edit OpenStruct`.
+
+-------------------------------------------------------------------------------
+
+![inline autoplay fit](movies/pry_source.mov)
+
+^ Create a `hello` method.
+Print out a message.
+Mess up the next `puts`.
+Use `amend-line` to fix it.
+Use `show-input` to see where we are at.
+Run the command.
+Use `edit` to fix the method.
+Run it again.
+
+-------------------------------------------------------------------------------
+
 # Halp!
 
 ![original 1300%][halp_image]
