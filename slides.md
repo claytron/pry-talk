@@ -72,6 +72,48 @@ add a `self.hello` method.
 `cd` back to main.
 `ls -G` to find the method.
 use the method.
+
+-------------------------------------------------------------------------------
+
+# Getting __Help__
+
+```
+[1] pry(main)> help
+Help
+  help               Show a list of commands or information about a specific command.
+
+Context
+  cd                 Move into a new context (object or scope).
+  ls                 Show the list of vars and methods in the current scope.
+  wtf?               Show the backtrace of the most recent exception.
+
+Editing
+  edit               Invoke the default editor on a file.
+
+Introspection
+  show-doc           Show the documentation for a method or class.
+  show-source        Show the source for a method or class.
+
+Input and output
+  .<shell command>   All text following a '.' is forwarded to the shell.
+  cat                Show code from a file, pry's input buffer, or the last exception.
+```
+
+-------------------------------------------------------------------------------
+
+# Getting __Help__
+
+```
+[1] pry(main)> help wtf?
+Usage: wtf[?|!]
+
+Show's a few lines of the backtrace of the most recent exception (also available
+as `_ex_.backtrace`). If you want to see more lines, add more question marks or
+exclamation marks.
+
+wtf?
+wtf?!???!?!?
+```
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
 [indyrb]: https://twitter.com/indyrb
