@@ -48,6 +48,20 @@ Run pry and see the output / return
 
 -------------------------------------------------------------------------------
 
+# Anatomy of the __Prompt__
+
+```
+[1] pry(main)>
+ |   |   |
+ |   | Current Context
+ |   |
+ |  Prompt Name
+ |
+Command history
+```
+
+-------------------------------------------------------------------------------
+
 # [fit] And now for my first trick...
 
 ![][trick_image]
