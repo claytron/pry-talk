@@ -48,7 +48,7 @@ Run pry and see the output / return
 
 -------------------------------------------------------------------------------
 
-# And now for my first trick...
+# [fit] And now for my first trick...
 
 ![][trick_image]
 
