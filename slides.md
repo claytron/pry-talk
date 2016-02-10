@@ -15,7 +15,7 @@ claytron on the internets
 
 Senior Software Engineer at TinderBox ![fit][tinderbox]
 
-Debugger afficianado
+Debugger aficionado
 
 -------------------------------------------------------------------------------
 
