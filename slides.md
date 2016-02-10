@@ -139,9 +139,73 @@ wtf?!???!?!?
 
 -------------------------------------------------------------------------------
 
+# Customization
+
+
+![172%][customize_image]
+
+-------------------------------------------------------------------------------
+
+`vim ~/.pryrc`
+
+-------------------------------------------------------------------------------
+
+# Repeat Last Command
+
+```ruby
+# Hit Enter to repeat last command
+Pry::Commands.command(/^$/, 'repeat last command') do
+  last_command = Pry.history.to_a.last
+  unless ['c', 'continue', 'q', 'exit-program', 'quit'].include? last_command
+    _pry_.run_command last_command
+  end
+end
+```
+
+-------------------------------------------------------------------------------
+
+# Aliases
+
+```ruby
+# Single letter and pdb like aliases
+if defined?(PryByebug)
+  Pry.commands.alias_command 'c', 'continue'
+  Pry.commands.alias_command 's', 'step'
+  Pry.commands.alias_command 'n', 'next'
+  Pry.commands.alias_command 'return', 'finish'
+  Pry.commands.alias_command 'r', 'finish'
+  Pry.commands.alias_command 'f', 'finish'
+  Pry.commands.alias_command 'q', 'exit-program'
+  Pry.commands.alias_command 'quit', 'exit-program'
+end
+```
+
+-------------------------------------------------------------------------------
+
+# Other Stuff
+
+```ruby
+# Turn off the automatic pager
+Pry.config.pager = false
+
+# Make the prompt silly
+# [1] oh no!(main)>
+Pry.config.prompt_name = 'oh no!'
+```
+
+-------------------------------------------------------------------------------
+
 # Plugins
 
 ![240%][plugins_image]
+
+-------------------------------------------------------------------------------
+
+# Links
+
+- [Pry][pry]
+- [Repeat last command][last_command]
+- [Command Aliases][command_aliases]
 
 -------------------------------------------------------------------------------
 
@@ -149,6 +213,7 @@ wtf?!???!?!?
 
 - And now for my first trick... ([@vtornick][trick_credit])
 - Halp! ([@daveblog][halp_credit])
+- Customize ([@hz536n][customize_credit])
 - Plugins ([@antpaniagua][plugins_credit])
 
 [//]: # ( Links                                                               )
@@ -158,6 +223,8 @@ wtf?!???!?!?
 [tinderbox]: images/TinderboxLogo.png
 [pry]: http://pryrepl.org/
 [pry_logo]: images/pry.png
+[last_command]: https://github.com/claytron/dotfiles/blob/master/.pryrc#L7
+[command_aliases]: https://github.com/claytron/dotfiles/blob/master/.pryrc#L15
 
 [//]: # ( CC Images                                                           )
 [//]: # ( ------------------------------------------------------------------- )
@@ -165,6 +232,8 @@ wtf?!???!?!?
 [trick_credit]: https://flic.kr/p/6psgfH
 [halp_image]: images/halp.jpg
 [halp_credit]: https://flic.kr/p/7sVMkt
+[customize_image]: images/customize.jpg
+[customize_credit]: https://flic.kr/p/cK5q45
 [plugins_image]: images/plugins.jpg
 [plugins_credit]: https://flic.kr/p/dmFGqt
 [//]: # ( ------------------------------------------------------------------- )
