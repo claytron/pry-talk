@@ -17,6 +17,10 @@ Senior Software Engineer at TinderBox ![fit][tinderbox]
 
 Debugger aficionado
 
+^ Rubyist for less than a year.
+My first official Ruby talk!
+Let me know if I'm off base :)
+
 -------------------------------------------------------------------------------
 
 ![inline fit][pry_logo]
@@ -29,6 +33,7 @@ Debugger aficionado
 ^ Powerful REPL
 Pluggable
 Code Browser
+Q: Who has used Pry? Hasn't?
 
 -------------------------------------------------------------------------------
 
