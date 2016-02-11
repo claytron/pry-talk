@@ -106,7 +106,7 @@ use the method.
 
 -------------------------------------------------------------------------------
 
-![inline autoplay fit](movies/pry_source.mov)
+![inline autoplay fit](movies/pry_line_editing.mov)
 
 ^ Create a `hello` method.
 Print out a message.
