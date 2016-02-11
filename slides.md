@@ -271,6 +271,33 @@ Commands to inspect models and routes
 
 -------------------------------------------------------------------------------
 
+# Debugging
+
+![][debugging_image]
+
+-------------------------------------------------------------------------------
+
+# Runtime Invocation
+
+```ruby
+require 'pry'
+binding.pry
+```
+
+-------------------------------------------------------------------------------
+
+![inline autoplay fit](movies/debugging.mov)
+
+^ Add a binding.pry.
+Step into `write_fortune`.
+Use `next` across a few lines.
+Print the `text` variable.
+Do `text.split('%')`
+Do `puts text.split('%')[1];`
+Finish out by `continue` -ing
+
+-------------------------------------------------------------------------------
+
 # Links
 
 - [Pry][pry]
@@ -285,6 +312,7 @@ Commands to inspect models and routes
 - Halp! ([@daveblog][halp_credit])
 - Customize ([@hz536n][customize_credit])
 - Plugins ([@antpaniagua][plugins_credit])
+- Debugging ([@eduardox][debugging_credit])
 
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
@@ -306,4 +334,6 @@ Commands to inspect models and routes
 [customize_credit]: https://flic.kr/p/cK5q45
 [plugins_image]: images/plugins.jpg
 [plugins_credit]: https://flic.kr/p/dmFGqt
+[debugging_image]: images/debugging.jpg
+[debugging_credit]: https://flic.kr/p/4wDL2b
 [//]: # ( ------------------------------------------------------------------- )
