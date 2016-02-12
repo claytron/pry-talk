@@ -75,6 +75,8 @@ Command history
 
 ![inline autoplay fit](movies/string_inspect.mov)
 
+^ :star: [Watch the Video][string_inspect_video] :star:
+
 ^ See that pry is installed.
 Start it up.
 Create a string.
@@ -87,6 +89,8 @@ Create a string.
 
 ![inline autoplay fit](movies/pry_edit.mov)
 
+^ :star: [Watch the Video][pry_edit_video] :star:
+
 ^ `cd` to Pry.
 `ls` it.
 add a `self.hello` method.
@@ -98,6 +102,8 @@ use the method.
 
 ![inline autoplay fit](movies/pry_source.mov)
 
+^ :star: [Watch the Video][pry_source_video] :star:
+
 ^ Show tab completion for `O<tab>`.
 `ls OpenStruct`.
 `show-doc OpenStruct`.
@@ -107,6 +113,8 @@ use the method.
 -------------------------------------------------------------------------------
 
 ![inline autoplay fit](movies/pry_line_editing.mov)
+
+^ :star: [Watch the Video][pry_line_editing_video] :star:
 
 ^ Create a `hello` method.
 Print out a message.
@@ -348,6 +356,14 @@ Made possible by [Creative Commons ![][cc_logo]][cc]
 [pry-stack_explorer]: https://github.com/pry/pry-stack_explorer
 [pry-clipboard]: https://github.com/hotchpotch/pry-clipboard/
 [pry-rails]: https://github.com/rweng/pry-rails
+
+[//]: # ( Online Videos                                                       )
+[//]: # ( ------------------------------------------------------------------- )
+[string_inspect_video]: https://youtu.be/AIzBoe9_X2E
+[pry_edit_video]: https://youtu.be/c7sWaTa5nK0
+[pry_source_video]: https://youtu.be/SbKlNYlCYCM
+[pry_line_editing_video]: https://youtu.be/WsOBOOErHNM
+[pry_debugging_video]: https://youtu.be/3IEajxwPSew
 
 [//]: # ( CC Images                                                           )
 [//]: # ( ------------------------------------------------------------------- )
