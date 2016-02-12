@@ -3,7 +3,7 @@ autoscale: true
 # [fit] Exploring Code
 # [fit] with __Pry__!
 
-[@indy.rb][indyrb] 02.2015
+[@indy.rb][indyrb] 02.2016
 
 -------------------------------------------------------------------------------
 
