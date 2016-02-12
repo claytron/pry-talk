@@ -299,6 +299,8 @@ binding.pry`
 
 ![inline autoplay fit](movies/debugging.mov)
 
+^ :star: [Watch the Video][pry_debugging_video] :star:
+
 ^ Add a binding.pry.
 Step into `write_fortune`.
 Use `next` across a few lines.
