@@ -284,10 +284,8 @@ Commands to inspect models and routes
 
 # Runtime Invocation
 
-```ruby
-require 'pry'
-binding.pry
-```
+`require 'pry'
+binding.pry`
 
 -------------------------------------------------------------------------------
 
