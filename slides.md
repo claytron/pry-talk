@@ -322,23 +322,23 @@ Finish out by `continue` -ing
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
 [indyrb]: https://twitter.com/indyrb
-[claytron]: images/claytron.jpg
-[tinderbox]: images/TinderboxLogo.png
+[claytron]: pics/claytron.jpg
+[tinderbox]: pics/TinderboxLogo.png
 [pry]: http://pryrepl.org/
-[pry_logo]: images/pry.png
+[pry_logo]: pics/pry.png
 [last_command]: https://github.com/claytron/dotfiles/blob/master/.pryrc#L7
 [command_aliases]: https://github.com/claytron/dotfiles/blob/master/.pryrc#L15
 
 [//]: # ( CC Images                                                           )
 [//]: # ( ------------------------------------------------------------------- )
-[trick_image]: images/trick.jpg
+[trick_image]: pics/trick.jpg
 [trick_credit]: https://flic.kr/p/6psgfH
-[halp_image]: images/halp.jpg
+[halp_image]: pics/halp.jpg
 [halp_credit]: https://flic.kr/p/7sVMkt
-[customize_image]: images/customize.jpg
+[customize_image]: pics/customize.jpg
 [customize_credit]: https://flic.kr/p/cK5q45
-[plugins_image]: images/plugins.jpg
+[plugins_image]: pics/plugins.jpg
 [plugins_credit]: https://flic.kr/p/dmFGqt
-[debugging_image]: images/debugging.jpg
+[debugging_image]: pics/debugging.jpg
 [debugging_credit]: https://flic.kr/p/4wDL2b
 [//]: # ( ------------------------------------------------------------------- )
