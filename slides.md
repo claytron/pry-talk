@@ -305,9 +305,20 @@ Finish out by `continue` -ing
 
 # Links
 
-[Pry][pry]
+[indy.rb][indyrb]
+[Pry Website][pry]
 [Repeat last command][last_command]
 [Command Aliases][command_aliases]
+
+Plugins
+
+[pry-awesome_print][pry-awesome_print]
+[pry-byebug][pry-byebug]
+[pry-stack_explorer][pry-stack_explorer]
+[pry-clipboard][pry-clipboard]
+[pry-rails][pry-rails]
+
+![right filtered][links]
 
 -------------------------------------------------------------------------------
 
@@ -318,6 +329,12 @@ Halp! ([@daveblog][halp_credit])
 Customize ([@hz536n][customize_credit])
 Plugins ([@antpaniagua][plugins_credit])
 Debugging ([@eduardox][debugging_credit])
+Links ([@volvob12b][links_credit])
+:arrow_left: This Picture ([@rhodes][images_credit])
+
+Made possible by [Creative Commons ![][cc_logo]][cc]
+
+![left filtered][images]
 
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
@@ -328,6 +345,11 @@ Debugging ([@eduardox][debugging_credit])
 [pry_logo]: pics/pry.png
 [last_command]: https://github.com/claytron/dotfiles/blob/master/.pryrc#L7
 [command_aliases]: https://github.com/claytron/dotfiles/blob/master/.pryrc#L15
+[pry-awesome_print]: https://github.com/steakknife/pry-awesome_print
+[pry-byebug]: https://github.com/deivid-rodriguez/pry-byebug
+[pry-stack_explorer]: https://github.com/pry/pry-stack_explorer
+[pry-clipboard]: https://github.com/hotchpotch/pry-clipboard/
+[pry-rails]: https://github.com/rweng/pry-rails
 
 [//]: # ( CC Images                                                           )
 [//]: # ( ------------------------------------------------------------------- )
@@ -341,4 +363,10 @@ Debugging ([@eduardox][debugging_credit])
 [plugins_credit]: https://flic.kr/p/dmFGqt
 [debugging_image]: pics/debugging.jpg
 [debugging_credit]: https://flic.kr/p/4wDL2b
+[links]: pics/links.jpg
+[links_credit]: https://flic.kr/p/fTfXkN
+[cc_logo]: http://mirrors.creativecommons.org/presskit/icons/cc.large.png
+[cc]: https://creativecommons.org
+[images]: pics/images.jpg
+[images_credit]: https://flic.kr/p/dDdb1M
 [//]: # ( ------------------------------------------------------------------- )
