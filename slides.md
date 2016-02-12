@@ -305,19 +305,19 @@ Finish out by `continue` -ing
 
 # Links
 
-- [Pry][pry]
-- [Repeat last command][last_command]
-- [Command Aliases][command_aliases]
+[Pry][pry]
+[Repeat last command][last_command]
+[Command Aliases][command_aliases]
 
 -------------------------------------------------------------------------------
 
 # Photo Credits
 
-- And now for my first trick... ([@vtornick][trick_credit])
-- Halp! ([@daveblog][halp_credit])
-- Customize ([@hz536n][customize_credit])
-- Plugins ([@antpaniagua][plugins_credit])
-- Debugging ([@eduardox][debugging_credit])
+And now for my first trick... ([@vtornick][trick_credit])
+Halp! ([@daveblog][halp_credit])
+Customize ([@hz536n][customize_credit])
+Plugins ([@antpaniagua][plugins_credit])
+Debugging ([@eduardox][debugging_credit])
 
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
