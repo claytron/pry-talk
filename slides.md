@@ -73,9 +73,11 @@ Command history
 
 -------------------------------------------------------------------------------
 
+Context Switching
+
 ![inline autoplay fit](movies/string_inspect.mov)
 
-^ :star: [Watch the Video][string_inspect_video] :star:
+:star: [Watch the Video][string_inspect_video] :star:
 
 ^ See that pry is installed.
 Start it up.
@@ -87,9 +89,11 @@ Create a string.
 
 -------------------------------------------------------------------------------
 
+In Memory Editing
+
 ![inline autoplay fit](movies/pry_edit.mov)
 
-^ :star: [Watch the Video][pry_edit_video] :star:
+:star: [Watch the Video][pry_edit_video] :star:
 
 ^ `cd` to Pry.
 `ls` it.
@@ -100,9 +104,11 @@ use the method.
 
 -------------------------------------------------------------------------------
 
+Source Browsing / Editing
+
 ![inline autoplay fit](movies/pry_source.mov)
 
-^ :star: [Watch the Video][pry_source_video] :star:
+:star: [Watch the Video][pry_source_video] :star:
 
 ^ Show tab completion for `O<tab>`.
 `ls OpenStruct`.
@@ -112,9 +118,11 @@ use the method.
 
 -------------------------------------------------------------------------------
 
+Line Editing
+
 ![inline autoplay fit](movies/pry_line_editing.mov)
 
-^ :star: [Watch the Video][pry_line_editing_video] :star:
+:star: [Watch the Video][pry_line_editing_video] :star:
 
 ^ Create a `hello` method.
 Print out a message.
@@ -297,9 +305,11 @@ binding.pry`
 
 -------------------------------------------------------------------------------
 
+Debugging
+
 ![inline autoplay fit](movies/debugging.mov)
 
-^ :star: [Watch the Video][pry_debugging_video] :star:
+:star: [Watch the Video][pry_debugging_video] :star:
 
 ^ Add a binding.pry.
 Step into `write_fortune`.
