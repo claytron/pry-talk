@@ -356,8 +356,8 @@ Made possible by [Creative Commons ![][cc_logo]][cc]
 [tinderbox]: pics/TinderboxLogo.png
 [pry]: http://pryrepl.org/
 [pry_logo]: pics/pry.png
-[last_command]: https://github.com/claytron/dotfiles/blob/master/.pryrc#L7
-[command_aliases]: https://github.com/claytron/dotfiles/blob/master/.pryrc#L15
+[last_command]: https://github.com/claytron/dotfiles/blob/27df34c8185d84d33ed905832f14e2422c2a307d/.pryrc#L7
+[command_aliases]: https://github.com/claytron/dotfiles/blob/27df34c8185d84d33ed905832f14e2422c2a307d/.pryrc#L15
 [pry-awesome_print]: https://github.com/steakknife/pry-awesome_print
 [pry-byebug]: https://github.com/deivid-rodriguez/pry-byebug
 [pry-stack_explorer]: https://github.com/pry/pry-stack_explorer
