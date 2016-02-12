@@ -9,9 +9,9 @@ autoscale: true
 
 # [fit] __Who__ am I?
 
-![][claytron]
+![][claytron_avatar]
 
-claytron on the internets
+[@claytron][claytron] on the internets
 
 Senior Software Engineer at TinderBox ![fit][tinderbox]
 
@@ -351,7 +351,8 @@ Made possible by [Creative Commons ![][cc_logo]][cc]
 [//]: # ( Links                                                               )
 [//]: # ( ------------------------------------------------------------------- )
 [indyrb]: https://twitter.com/indyrb
-[claytron]: pics/claytron.jpg
+[claytron]: http://twitter.com/claytron
+[claytron_avatar]: pics/claytron.jpg
 [tinderbox]: pics/TinderboxLogo.png
 [pry]: http://pryrepl.org/
 [pry_logo]: pics/pry.png
