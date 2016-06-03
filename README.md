@@ -1,4 +1,4 @@
-# Exploring Code with Pry!
+![](pics/intro_slide.png)
 
 Talk given at [indy.rb][indyrb] on 02.2016
 
