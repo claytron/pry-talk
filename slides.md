@@ -13,9 +13,11 @@ autoscale: true
 
 [@claytron][claytron] on the internets
 
-Senior Software Engineer at TinderBox ![fit][tinderbox]
+Senior Software Engineer at Octiv ![fit][octiv-logo]
 
 Debugger aficionado
+
+Code archaelogist
 
 ^ Rubyist for less than a year.
 My first official Ruby talk!
@@ -352,7 +354,7 @@ Made possible by [Creative Commons ![][cc_logo]][cc]
 [indyrb]: https://twitter.com/indyrb
 [claytron]: http://twitter.com/claytron
 [claytron_avatar]: pics/claytron.jpg
-[tinderbox]: pics/TinderboxLogo.png
+[octiv-logo]: pics/octiv-logo.png
 [pry]: http://pryrepl.org/
 [pry_logo]: pics/pry.png
 [last_command]: https://github.com/claytron/dotfiles/blob/27df34c8185d84d33ed905832f14e2422c2a307d/.pryrc#L7
